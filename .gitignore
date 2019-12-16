@@ -130,4 +130,4 @@ dmypy.json
 
 
 # Datafiles
-.pkl
+*.pkl
